@@ -1,9 +1,3 @@
-"""
-SkillCraft Technology - ML Internship
-Task 02: K-Means Clustering on Mall Customer Dataset
-Group retail customers based on Annual Income and Spending Score.
-"""
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
